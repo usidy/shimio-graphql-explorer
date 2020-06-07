@@ -7,6 +7,7 @@
       template(#all="{ operations }")
         response.resp(
           v-for="operation in operations"
+          :key="operation[0]"
           :operation="{ operation_name: operation[0],...operation[1] }"
           )
 

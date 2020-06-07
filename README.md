@@ -1,6 +1,8 @@
 # @sidy/shimio-graphql-explorer
 
-> A minimalist Graphql playground for @hydre/shimio-graphql
+A minimalist Graphql websocket playground for @hydre/shimio-graphql
+
+![](https://i.imgur.com/fWaJ7cU.png)
 
 ## Project setup
 ```
