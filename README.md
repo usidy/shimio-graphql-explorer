@@ -1,4 +1,6 @@
-# shimio-graphql-explorer
+# @sidy/shimio-graphql-explorer
+
+> A minimalist Graphql playground for @hydre/shimio-graphql
 
 ## Project setup
 ```
@@ -9,11 +11,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
