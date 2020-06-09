@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import VuePrismEditor from 'vue-prism-editor'
-import graphql from '@usidy/vue-shimio-graphql'
+import graphql from '@sidy/vue-shimio-graphql'
 
 import 'prismjs'
 import './style/atom_dark.css'

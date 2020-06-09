@@ -1,7 +1,7 @@
 module.exports = {
   transpileDependencies: [
     "@hydre/shimio",
-    "@hydre/shimio-graphql",
+    "event-iterator"
   ],
   runtimeCompiler: true
 }

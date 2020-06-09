@@ -6,6 +6,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@sidy/vue-shimio-graphql": "^1.0.6",
     "core-js": "^3.6.5",
     "graphql-formatter": "^1.0.3",
     "prismjs": "^1.20.0",
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.1",
     "@babel/plugin-proposal-numeric-separator": "^7.10.1",
+    "@babel/plugin-proposal-private-methods": "^7.10.1",
     "@vue/cli-plugin-babel": "^4.4.1",
     "@vue/cli-plugin-pwa": "~4.4.1",
     "@vue/cli-service": "~4.4.1",
