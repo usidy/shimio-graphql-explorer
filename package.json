@@ -1,9 +1,16 @@
 {
   "name": "shimio-graphql-explorer",
   "version": "0.1.1",
+  "description": "A minimalist Graphql websocket playground for @hydre/shimio-graphql",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "postversion": "git push && git push --tags"
+  },
+  "license": "UNLICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/usidy/shimio-graphql-explorer.git"
   },
   "dependencies": {
     "@sidy/vue-shimio-graphql": "^1.0.6",
