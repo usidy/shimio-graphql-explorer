@@ -13,7 +13,7 @@
     "url": "git+ssh://git@github.com/usidy/shimio-graphql-explorer.git"
   },
   "dependencies": {
-    "@sidy/vue-shimio-graphql": "^1.0.6",
+    "@sidy/vue-shimio-graphql": "^1.1.4",
     "core-js": "^3.6.5",
     "graphql-formatter": "^1.0.3",
     "prismjs": "^1.20.0",
@@ -25,14 +25,14 @@
     "@babel/plugin-proposal-class-properties": "^7.10.1",
     "@babel/plugin-proposal-numeric-separator": "^7.10.1",
     "@babel/plugin-proposal-private-methods": "^7.10.1",
-    "@vue/cli-plugin-babel": "^4.4.1",
-    "@vue/cli-plugin-pwa": "~4.4.1",
-    "@vue/cli-service": "~4.4.1",
+    "@vue/cli-plugin-babel": "^4.4.5",
+    "@vue/cli-plugin-pwa": "~4.4.5",
+    "@vue/cli-service": "~4.4.5",
     "pug": "^3.0.0",
     "pug-plain-loader": "^1.0.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
-    "vue-loader": "^15.9.2",
+    "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [

@@ -3,5 +3,5 @@ module.exports = {
     "@hydre/shimio",
     "event-iterator"
   ],
-  runtimeCompiler: true
+  runtimeCompiler: true,
 }
